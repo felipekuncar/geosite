@@ -222,7 +222,7 @@ def Darendeli_MRDcurves_forPySeismoSoil(sigma_v0_eff, K0, PI, OCR, freq=1, N=10)
     D: Array with damping curve (%)
     a: Curvature coefficient
     gamma_r: Pseudo-reference shear strain (%)
-    Dmin: Small-starin material damping ratio (dimensionless)
+    Dmin: Small-strain material damping ratio (dimensionless)
     '''
 
     # Atmospheric pressure (kPa)
