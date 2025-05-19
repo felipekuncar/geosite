@@ -1,0 +1,3 @@
+# Model option for OpenSees
+# modelOption = 1: Default MR curves
+# modelOption = 2: User-defined MR curves
